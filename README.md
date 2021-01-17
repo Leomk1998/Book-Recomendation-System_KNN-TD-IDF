@@ -14,4 +14,5 @@ Pandas
 Spicy
 Numpy
 JupyerDash
+nltk
 ```
